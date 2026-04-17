@@ -1,0 +1,5 @@
+{
+  "text": "app.services.text_service.process_text",
+  "sentiment": "app.services.sentiment_service.process_sentiment",
+  "summary": "app.services.summary_service.process_summary"
+}
